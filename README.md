@@ -22,6 +22,7 @@
 </p> 
 
 
- <br a href="#" alt="Linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=https://www.linkedin.com/in/eduardo-salles-277a9771/&logoColor=white"/></a>
-
+<p align="left">
+<a href="#" alt="Linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=https://www.linkedin.com/in/eduardo-salles-277a9771/&logoColor=white" /></a>
+</p>
