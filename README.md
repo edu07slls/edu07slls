@@ -18,7 +18,7 @@
   
 <p align="left">
  <a href="#" alt="Gmail">
- <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-         square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/eduardosalles@gmail.com"/></a>
+ <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-         square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://https://mail.google.com/mail/u/0/"/></a>
 
 <a href="https://www.linkedin.com/in/eduardo-salles-277a9771/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-salles-277a9771/"/></a>
