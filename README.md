@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
- 🌎 Olá, meu nome é Eduardo Salles.<br>&emsp;&ensp;<a href="https://icons8.com/icon/NBD5KfCPd6bV/class"></a>Sou estudante de Desenvolvimento de Sistemas.
+ 🌎 Olá, meu nome é Eduardo Salles.<br>&emsp;&ensp;✔Sou estudante de Desenvolvimento de Sistemas.
 </p>
 
 <p align="left"> 
