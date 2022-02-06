@@ -17,6 +17,7 @@
 </p>
 
 <a href="https://eduardosalles.netlify.app/" alt="Portfolio">
+ https://fontawesome.com/v5.15/icons/battle-net?style=brands#:~:text=use%20this%20icon%3A-,%3Ci%20class%3D%22fab%20fa%2Dbattle%2Dnet%22%3E%3C/i%3E,-Don%27t%20have%20a
    <img src="https://fontawesome.com/v5.15/icons/battle-net?style=brands#:~:text=use%20this%20icon%3A-,%3Ci%20class%3D%22fab%20fa%2Dbattle%2Dnet%22%3E%3C/i%3E,-Don%27t%20have%20a"/></a>
 
     
