@@ -17,7 +17,7 @@
 </p>
 
 <a href="https://eduardosalles.netlify.app/" alt="Portfolio">
-    <img src=<a href="https://icons8.com/icon/jXjqkcvVNW5f/network">MeuPortfólio</a>
+    <img src=href="https://icons8.com/icon/jXjqkcvVNW5f/network">MeuPortfólio</a>
 
 
 
