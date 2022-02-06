@@ -16,8 +16,6 @@
  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 </p>
 
-<a href="https://icons8.com/icon/jXjqkcvVNW5f/network">Network icon by Icons8</a>
-
 <a href="https://eduardosalles.netlify.app/" alt="Portfolio">
 <img src="https://icons8.com/icon/jXjqkcvVNW5f/network=for-the-badge&logo=linkedin&logoColor=white&link=https://eduardosalles.netlify.app/"/></a>
  
