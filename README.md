@@ -17,9 +17,9 @@
 </p>
 
 <a href="https://eduardosalles.netlify.app/" alt="Portfolio">
-    <img src="<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">">
+    <img src=<a href="https://icons8.com/icon/jXjqkcvVNW5f/network">Network icon by Icons8</a>
 
-<link rel="manifest" href="/site.webmanifest"/></a>
+
 
 
 <a href="https://www.linkedin.com/in/eduardo-salles-277a9771/" alt="Linkedin">
