@@ -18,7 +18,7 @@
 
 <a href="https://eduardosalles.netlify.app/" alt="Portfolio">
 
-   <img src="https://icons8.com/icon/jXjqkcvVNW5f/network"https://eduardosalles.netlify.app/"/></a>
+   <img src=https://eduardosalles.netlify.app/"/></a>
 
     
 
