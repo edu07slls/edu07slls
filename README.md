@@ -18,3 +18,4 @@
 
 <a href="https://eduardosalles.netlify.app/">🚀🔗Meu Portfólio</a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-salles-277a9771/)](https://www.linkedin.com/in/eduardo-salles-277a9771)
+?style=for-the-badge&logo=appveyor
