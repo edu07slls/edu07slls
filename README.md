@@ -16,8 +16,8 @@
  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 </p>
 
-<a href="https://eduardosalles.netlify.app/" alt="Portfolio">
- https://fontawesome.com/v5.15/icons/battle-net?style=brands#:~:text=use%20this%20icon%3A-,%3Ci%20class%3D%22fab%20fa%2Dbattle%2Dnet%22%3E%3C/i%3E,-Don%27t%20have%20a
+<a href=<a href="https://icons8.com/icon/jXjqkcvVNW5f/network">Network icon by Icons8</a>"https://eduardosalles.netlify.app/" alt="Portfolio">
+
    <img src="https://fontawesome.com/v5.15/icons/battle-net?style=brands#:~:text=use%20this%20icon%3A-,%3Ci%20class%3D%22fab%20fa%2Dbattle%2Dnet%22%3E%3C/i%3E,-Don%27t%20have%20a"/></a>
 
     
