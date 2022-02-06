@@ -16,8 +16,8 @@
  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 </p>
 
-<p
-<a href="https://eduardosalles.netlify.app/" alt="Portfolio">
+
+<p <a href="https://eduardosalles.netlify.app/" alt="Portfolio">
 
    <img src="https://eduardosalles.netlify.app/"</a>
 
