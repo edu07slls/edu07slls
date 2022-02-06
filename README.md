@@ -18,5 +18,5 @@
 
 
 <a href="https://eduardosalles.netlify.app/">🔗Meu Portfólio</a>
-<img src="https://img.shields.io/static/v1?label=Blog&message=Meu-Portfolio&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Meu-Portfolio&color=7159c1&style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-salles-277a9771/"/>
