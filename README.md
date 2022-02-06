@@ -21,5 +21,5 @@
 
  
 
-a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-salles-277a9771/"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-salles-277a9771/"/></a>
 </p>
