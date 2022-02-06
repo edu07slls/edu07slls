@@ -16,6 +16,7 @@
  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 </p>
 
+<p
 <a href="https://eduardosalles.netlify.app/" alt="Portfolio">
 
    <img src="https://eduardosalles.netlify.app/"</a>
@@ -26,4 +27,4 @@
 
 <a href="https://www.linkedin.com/in/eduardo-salles-277a9771/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-salles-277a9771/"/></a>
-
+</p>
