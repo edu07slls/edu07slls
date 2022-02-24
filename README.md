@@ -9,7 +9,7 @@
 </p>
 
 <p align="left"> 
- 💼 Ferramentas: VSCode, Figma, Trello, MySql, Git e GitHub.
+ 💼 Ferramentas: VSCode, Figma, Trello, Git e GitHub.
 </p>
 
 <p align="left">
